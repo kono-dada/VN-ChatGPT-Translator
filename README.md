@@ -110,3 +110,5 @@ python main.py 1 08:00:00
 ## 致谢
 
 本项目使用了[ChatGPT-Automation](https://github.com/ugorsahin/ChatGPT_Automation)为基础，并在此之上对原脚本修改使其适合连续翻译长对话。感谢这个脚本的作者。
+
+关于对话的提取与json文件的制作，项目[VNTranslationTools](https://github.com/arcusmaximus/VNTranslationTools)帮了不少忙。如有想应用本项目做翻译的小伙伴，十分推荐这个项目，可以快速提取出对话文本。
