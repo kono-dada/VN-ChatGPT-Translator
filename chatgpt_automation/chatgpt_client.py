@@ -49,6 +49,7 @@ class ChatGPT_Client:
         driver_arguments : list = None,
         verbose :bool = True,
         answer_waiting_time :int = 10,
+        chrome_version :int = 113
     ):
         self.answer_wating_time = answer_waiting_time
         if verbose:
@@ -67,7 +68,7 @@ class ChatGPT_Client:
             driver_executable_path=driver_executable_path,
             options=options,
             headless=headless,
-            version_main=113
+            version_main=chrome_version
         )
         self.browser.set_page_load_timeout(15)
         logging.info('Loaded Undetected chrome')

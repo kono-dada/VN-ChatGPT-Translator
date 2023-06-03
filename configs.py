@@ -8,6 +8,8 @@ all_text = os.listdir(text_dir)
 
 total_accounts = 1  # 总共账号数量
 
+chrome_version = 113  # Chrome的大版本
+
 # 请在这里放置session的url。
 urls = {
     1: 'https://chat.openai.com/c/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx',

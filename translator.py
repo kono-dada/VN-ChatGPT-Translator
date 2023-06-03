@@ -69,7 +69,8 @@ class Translator:
                     use_gpt4=False, 
                     verbose=True,
                     headless=self.headless,
-                    answer_waiting_time=answer_waiting_time
+                    answer_waiting_time=answer_waiting_time,
+                    chrome_version=chrome_version
                 )
             except Exception as e:
                 logging.info(e)

@@ -1,2 +1,5 @@
 __pycache__/
 chatgpt_automation/__pycache__/
+test.py
+cookies.json
+.vscode/
