@@ -1,7 +1,7 @@
 [
     {
         "domain": ".openai.com",
-        "expirationDate": 1685684884.729574,
+        "expirationDate": 1686369036.078402,
         "hostOnly": false,
         "httpOnly": false,
         "name": "_puid",
@@ -10,7 +10,20 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "user-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        "value": "user-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+        "domain": ".openai.com",
+        "expirationDate": 1686369038,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "intercom-session-dgkjq2bp",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
     },
     {
         "domain": ".chat.openai.com",
@@ -22,11 +35,24 @@
         "secure": true,
         "session": true,
         "storeId": null,
-        "value": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        "value": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+        "domain": ".openai.com",
+        "expirationDate": 1709094238,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "intercom-device-id-dgkjq2bp",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
     },
     {
         "domain": "chat.openai.com",
-        "expirationDate": 1687672083.717354,
+        "expirationDate": 1688356250.707136,
         "hostOnly": true,
         "httpOnly": true,
         "name": "__Secure-next-auth.session-token",
@@ -35,11 +61,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        "value": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
     },
     {
         "domain": ".chat.openai.com",
-        "expirationDate": 1685081883.954379,
+        "expirationDate": 1685766036.854741,
         "hostOnly": false,
         "httpOnly": true,
         "name": "__cf_bm",
@@ -48,7 +74,7 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        "value": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
     },
     {
         "domain": "chat.openai.com",
@@ -64,7 +90,19 @@
     },
     {
         "domain": "chat.openai.com",
-        "expirationDate": 1685081026,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "__Host-next-auth.csrf-token",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+        "domain": "chat.openai.com",
+        "expirationDate": 1685765150,
         "hostOnly": true,
         "httpOnly": false,
         "name": "_dd_s",
@@ -73,6 +111,32 @@
         "secure": false,
         "session": false,
         "storeId": null,
-        "value": "rum=0&expire=xxxxxxxxxxxxxxxxx"
+        "value": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+        "domain": ".openai.com",
+        "expirationDate": 1719345077.73398,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+        "domain": ".openai.com",
+        "expirationDate": 1719345077.733494,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga_9YTZJE58M9",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
     }
 ]
